@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EsNxun3E42iEBegTxWZ3Gg" name="new_discipline,_S1UrIB4WEe2_5arV6NjuKA" guid="-EsNxun3E42iEBegTxWZ3Gg" changeDate="2022-08-17T07:21:38.483-0300">
+  <mainDescription>&lt;span&#xD;
+style='FONT-SIZE: 14px; FONT-FAMILY: &quot;helvetica neue&quot;, Helvetica, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: justify; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+Explica como instruir, ajudar e suportar a equipe, ajudando-a a lidar com os riscos e obstáculos encontrados na construção&#xD;
+de software. Controla as mudanças nos artefatos, assegurando uma evolução sincronizada do conjunto de Produtos de Trabalho&#xD;
+que compõem um sistema de software.&lt;/span></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

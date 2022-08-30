@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0vZsgjr0R0KnAw4LQM6noA" name=",_ay9iAB4UEe2_5arV6NjuKA" guid="-0vZsgjr0R0KnAw4LQM6noA" changeDate="2022-08-17T07:07:44.409-0300">
+  <mainDescription>&lt;span&#xD;
+style='FONT-SIZE: 18px; FONT-FAMILY: &quot;Source Serif Pro&quot;, serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(37,58,68); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+Tarefa onde diversas atividades de testes são executadas a fim de se validar o produto de software, testando cada&#xD;
+funcionalidade de cada módulo, buscando, levando em consideração a especificação feita na fase de projeto. Onde o principal&#xD;
+resultado é o relatório de testes, que contém as informações relevantes sobre erros encontrados no sistema, e seu&#xD;
+comportamento em vários aspectos. Ao final dessa atividade, os diversos módulos do sistema são integrados, resultando no&#xD;
+produto de software.&lt;/span></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
